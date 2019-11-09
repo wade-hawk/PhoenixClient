@@ -20,7 +20,7 @@
 
 
 import Starscream
-
+import Foundation
 
 /// Alias for a JSON dictionary [String: Any]
 public typealias Payload = [String: Any]
